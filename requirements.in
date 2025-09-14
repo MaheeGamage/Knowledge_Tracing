@@ -1,0 +1,5 @@
+# requirements.in - High-level dependencies only
+numpy
+pandas
+scikit-learn
+matplotlib
